@@ -57,6 +57,10 @@ const nico = {
       </td>
     </tr>
   </table>
+</div> <br>
+
+<div id="contributions" align="center">
+  <a href="https://github.com/nicolasdelrosario"><img src="contributions.svg"></a>
 </div>
 
 ---
