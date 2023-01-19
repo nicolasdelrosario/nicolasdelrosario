@@ -34,7 +34,8 @@ const nico = {
     personalProjects: true,
     travel: true,
   },
-  hobbies: ["videogames", "guitar", ""],
+  from: "Perú",
+  hobbies: ["videogames", "guitar", "coffee"],
   funFact: "I code so well, even my cats sits on the keyboard just to watch me work"
 }
 ```
