@@ -23,6 +23,8 @@
 const nico = {
   pronouns: "he" | "him",
   code: [Javascript, Git, HTML, CSS, SCSS, Bootstrap],
+  email: "contact@nicolasdelrosario.com",
+  from: "Perú",
   goalsThisYear: {
     newLanguage: "Python",
     newTechnology: ["React", "GraphQL"],
@@ -34,7 +36,6 @@ const nico = {
     personalProjects: true,
     travel: true,
   },
-  from: "Perú",
   hobbies: ["videogames", "guitar", "coffee"],
   funFact: "I code so well, even my cats sits on the keyboard just to watch me work"
 }
