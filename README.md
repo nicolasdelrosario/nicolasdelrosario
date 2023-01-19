@@ -20,7 +20,7 @@
 </div>
 
 ```javascript
-const nico = {![image](https://user-images.githubusercontent.com/77413186/213540701-6bf6823c-48ae-42b8-861d-de265515aac1.png)
+const nico = {
 
   pronouns: "he" | "him",
   email: "contact@nicolasdelrosario.com",
@@ -28,7 +28,7 @@ const nico = {![image](https://user-images.githubusercontent.com/77413186/213540
   languages: {
     spanish: "Native",
     english: "B1",
-    portuguese: "A2"![image](https://user-images.githubusercontent.com/77413186/213540692-d9df6ebd-1fba-4ad8-8177-f0f4f742f828.png)
+    portuguese: "A2"
 
   },
   hobbies: ["videogames", "guitar", "coffee"],
