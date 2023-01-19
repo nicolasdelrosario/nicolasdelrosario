@@ -20,14 +20,16 @@
 </div>
 
 ```javascript
-const nico = {
+const nico = {![image](https://user-images.githubusercontent.com/77413186/213540701-6bf6823c-48ae-42b8-861d-de265515aac1.png)
+
   pronouns: "he" | "him",
   email: "contact@nicolasdelrosario.com",
   code: [Javascript, Git, HTML, CSS, SCSS, Bootstrap],
   languages: {
     spanish: "Native",
     english: "B1",
-    portuguese: "A2"
+    portuguese: "A2"![image](https://user-images.githubusercontent.com/77413186/213540692-d9df6ebd-1fba-4ad8-8177-f0f4f742f828.png)
+
   },
   hobbies: ["videogames", "guitar", "coffee"],
   goalsThisYear: {
@@ -70,6 +72,11 @@ const nico = {
 
 <div id="contributions" align="center">
   <a href="https://github.com/nicolasdelrosario"><img src="contributions.svg"></a>
+  </br></br></br>
+  <p align"center">
+    <b>I'm grateful to the open-source community for their resources</b> </br> 
+    <b>which helped me to learn and grow. Thank you all. 💜</b>
+  </p>
 </div>
 
 ---
