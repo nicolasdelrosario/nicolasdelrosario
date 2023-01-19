@@ -16,50 +16,53 @@
 </div> <br>
 
 <div id="about-me">
-  <h2>About me</h2> <br>
+  <h2>| About me</h2> <br>
 </div>
 
 ```javascript
 const nico = {
   pronouns: "he" | "him",
-  code: [Javascript, Git, HTML, CSS, SCSS, Bootstrap],
   email: "contact@nicolasdelrosario.com",
-  from: "Perú",
+  code: [Javascript, Git, HTML, CSS, SCSS, Bootstrap],
+  languages: {
+    spanish: "Native",
+    english: "B1"
+  },
+  hobbies: ["videogames", "guitar", "coffee"],
   goalsThisYear: {
     newLanguage: "Python",
     newTechnology: ["React", "GraphQL"],
-    language: {
-      english: "B2",
-      portuguese: "B1"
-    },
     conferences: true,
     personalProjects: true,
     travel: true,
   },
-  hobbies: ["videogames", "guitar", "coffee"],
-  funFact: "I code so well, even my cats sits on the keyboard just to watch me work"
-}
-```
+  funFact: "I code so well, that even my cats sits on the keyboard just to watch me work"
+};
+```![image](https://user-images.githubusercontent.com/77413186/213514061-b5062a38-c0e8-4ee0-b931-811cb31080a6.png)
+
 
 <div id="projects" align="center">
-  <h2 align="left">Best Projects</h2>
+  <h2 align="left">| Best Projects</h2>
   <table>
     <tr>
       <td>
         <a href="https://github.com/nicolasdelrosario/User-CRUD" target="_blank">
           <img src="https://res.cloudinary.com/dlghcisov/image/upload/v1674072476/projects/User-CRUD/Read-User.png" alt="User CRUD"></img>
-          <figcaption">User-CRUD</figcaption>
+          <label>User-CRUD</label> </br>
         </a>
+        <figcaption>This project allows users to create, read, update and delete (CRUD) user data.</figcaption>
       </td>
       <td>
         <a href="https://github.com/nicolasdelrosario/Groovy-Clone" target="_blank">
-          <img src="https://res.cloudinary.com/dlghcisov/image/upload/v1674005371/projects/Groovy/assets/groovy-homepage.png" alt="image2"></img>
-          <figcaption>Groovy-Clone</figcaption>
+          <img alt="Groovy Clone" src="https://res.cloudinary.com/dlghcisov/image/upload/v1674005371/projects/Groovy/assets/groovy-homepage.png"></img>
+          <label>Groovy-Clone</label> </br>
         </a>
+        <figcaption>This project is a replica of the Groovy website. The goal is to showcase skills in web development and user interface design.</figcaption>
       </td>
     </tr>
   </table>
-</div> <br>
+</div>
+
 
 <div id="contributions" align="center">
   <a href="https://github.com/nicolasdelrosario"><img src="contributions.svg"></a>
