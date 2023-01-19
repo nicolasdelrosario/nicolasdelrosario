@@ -26,20 +26,25 @@ const nico = {
   code: [Javascript, Git, HTML, CSS, SCSS, Bootstrap],
   languages: {
     spanish: "Native",
-    english: "B1"
+    english: "B1",
+    portuguese: "A2"
   },
   hobbies: ["videogames", "guitar", "coffee"],
   goalsThisYear: {
+    //read up again 👾
     newLanguage: "Python",
     newTechnology: ["React", "GraphQL"],
+    language: {
+      english: "B2",
+      portuguese: "B1"
+    },
     conferences: true,
     personalProjects: true,
     travel: true,
   },
-  funFact: "I code so well, that even my cats sits on the keyboard just to watch me work"
+  funFact: "I code so well, that even my cats sits on the keyboard just to watch me work. 😎"
 };
-```![image](https://user-images.githubusercontent.com/77413186/213514061-b5062a38-c0e8-4ee0-b931-811cb31080a6.png)
-
+```
 
 <div id="projects" align="center">
   <h2 align="left">| Best Projects</h2>
@@ -62,7 +67,6 @@ const nico = {
     </tr>
   </table>
 </div>
-
 
 <div id="contributions" align="center">
   <a href="https://github.com/nicolasdelrosario"><img src="contributions.svg"></a>
