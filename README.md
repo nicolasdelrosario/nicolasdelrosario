@@ -36,7 +36,7 @@ const nico = {
     //read up again 👾
     newLanguage: "Python",
     newTechnology: ["React", "GraphQL"],
-    language: {
+    languages: {
       english: "B2",
       portuguese: "B1"
     },
@@ -54,17 +54,17 @@ const nico = {
     <tr>
       <td>
         <a href="https://github.com/nicolasdelrosario/User-CRUD" target="_blank">
-          <img src="https://res.cloudinary.com/dlghcisov/image/upload/v1674072476/projects/User-CRUD/Read-User.png" alt="User CRUD"></img>
-          <label>User-CRUD</label> </br>
+          <img src="https://res.cloudinary.com/dlghcisov/image/upload/v1675123125/list_o8hnyc.png" alt="User CRUD"></img>
+          <label>User CRUD</label> </br>
         </a>
         <figcaption>This project allows users to create, read, update and delete (CRUD) user data.</figcaption>
       </td>
       <td>
-        <a href="https://github.com/nicolasdelrosario/Groovy-Clone" target="_blank">
-          <img alt="Groovy Clone" src="https://res.cloudinary.com/dlghcisov/image/upload/v1674005371/projects/Groovy/assets/groovy-homepage.png"></img>
-          <label>Groovy-Clone</label> </br>
+        <a href="https://github.com/nicolasdelrosario/Pomodoro-Task-Manager" target="_blank">
+          <img alt="Pomodoro Task Manager" src="https://res.cloudinary.com/dlghcisov/image/upload/v1675120807/projects/pomodoro/light.png"></img>
+          <label>Pomodoro Task Manager</label> </br>
         </a>
-        <figcaption>This project is a replica of the Groovy website. The goal is to showcase skills in web development and user interface design.</figcaption>
+        <figcaption>Pomodoro Task Manager is a time management tool designed to help users be more productive.</figcaption>
       </td>
     </tr>
   </table>
