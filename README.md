@@ -32,7 +32,6 @@
 
 ```javascript
 const nico = {
-
   pronouns: "he" | "him",
   email: "contact@nicolasdelrosario.com",
   programmingLanguages: [HTML5, CSS3, Javascript],
