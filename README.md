@@ -15,15 +15,12 @@
 </p>
 
 <div id="badges" align="center">
-<a href="https://www.linkedin.com/in/nicolasdelrosario/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-FFA726?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" />
-</a>
-<a href="https://github.com/nicolasdelrosario" target="_blank">
-  <img src="https://img.shields.io/badge/github-FFA726?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-</a>
-<a href="https://twitter.com/nicodelrosar1o" target="_blank">
-  <img src="https://img.shields.io/badge/twitter-FFA726?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
-</a>
+  <a href="https://www.linkedin.com/in/nicolasdelrosario/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-FFA726?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" />
+  </a>
+  <a href="https://github.com/nicolasdelrosario" target="_blank">
+    <img src="https://img.shields.io/badge/github-FFA726?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
 </div> <br>
 
 <div id="about-me">
@@ -39,17 +36,11 @@ const nico = {
   languages: {
     spanish: "Native",
     english: "B1",
-    portuguese: "A2"
+    portuguese: "A2",
   },
-  funFact: "I code so well, that even my cats sits on the keyboard just to watch me work. 😎"
+  funFact:
+    "I code so well, that even my cats sits on the keyboard just to watch me work. 😎",
 };
 ```
-
-<div id="contributions" align="center">
-  <p align="center">
-    <b>I'm grateful to the open-source community for their resources</b> </br> 
-    <b>which helped me to learn and grow. Thank you all. 💛</b>
-  </p>
-</div>
 
 ---
