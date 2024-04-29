@@ -29,18 +29,18 @@
 
 ```javascript
 const nico = {
-  pronouns: "he" | "him",
-  email: "contact@nicolasdelrosario.com",
-  programmingLanguages: [HTML5, CSS3, Javascript],
-  stack: [React, NodeJS, Tailwind, NPM, Git, Linux, ESLint],
-  languages: {
-    spanish: "Native",
-    english: "B1",
-    portuguese: "A2",
-  },
-  funFact:
-    "I code so well, that even my cats sits on the keyboard just to watch me work. 😎",
-};
+	pronouns: 'he' | 'him',
+	email: 'contact@nicolasdelrosario.com',
+	programmingLanguages: ['HTML5', 'CSS3', 'Javascript'],
+	stack: ['React', 'NodeJS', 'Tailwind', 'NPM', 'Git', 'Linux', 'ESLint'],
+	languages: {
+		spanish: 'Native',
+		english: 'B1',
+		portuguese: 'A2',
+	},
+	funFact:
+		'I code so well, that even my cats sits on the keyboard just to watch me work. 😎',
+}
 ```
 
 ---
