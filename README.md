@@ -66,7 +66,7 @@
 
 <br>
 <p align="center">
-  <img alt="Most Used Languages" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasdelrosario&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
+  <img alt="Most Used Languages" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasdelrosario&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
 </p>
 <br>
 
