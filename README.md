@@ -6,6 +6,7 @@
 </p>
 <br>
 
+
 <img align="right" alt="this is fine" width="40%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJpaHdoYm1maTlreTE4NzFhaGViZ3drc2IxajN3ZDkyMW53ZHBnZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QMHoU66sBXqqLqYvGO/giphy.gif">
 
 - 🌱 I’m open to all **opportunities**
